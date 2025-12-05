@@ -1,0 +1,4 @@
+[submodule "Submodules/KniSB"]
+	path = Submodules/KniSB
+	url = https://github.com/squarebananas/KniSB.git
+	branch = main
